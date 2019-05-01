@@ -11,7 +11,7 @@ class Youtube extends Component{
         super(props);
 
         this.state={
-
+           results:[] 
         }
     }
 
