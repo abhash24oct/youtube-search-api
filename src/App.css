@@ -53,3 +53,34 @@ input {
   padding:20px;
   
 }
+
+.thumbnail{
+  float: left;
+}
+
+.video-thmb{
+ 
+}
+
+.box-wrapper{
+  height: 37px;
+  padding: 61px;
+  border: 1px coral solid;
+}
+
+.video-container{
+
+}
+
+*{
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+#video-container {
+   margin-left:15% ;
+   margin-right:15% ;
+    border: 1px solid #ccc;
+   background-color: #f3f3f3;
+   align:"center";
+}
