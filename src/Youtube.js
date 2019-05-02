@@ -3,7 +3,7 @@ import ShowVideos from './ShowVideos';
 
 
 const { YoutubeDataAPI } = require("youtube-v3-api");
-const API_KEY='AIzaSyBakyUTu61y0r6313NMRItE1Y34acdm9SE';
+const API_KEY='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx';
 
 
 class Youtube extends Component{
